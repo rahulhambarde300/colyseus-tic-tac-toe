@@ -19,6 +19,7 @@ export class TicTacToe extends Room<State> {
   onCreate () {
     this.setState(new State());
     this.onMessage("action", (client, message) => this.playerAction(client, message));
+    console.log("Lobby created");
   }
 
   onJoin (client: Client) {

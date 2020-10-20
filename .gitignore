@@ -6,3 +6,5 @@ package-lock.json
 /defold/.internal
 /defold/build
 /defold/.externalToolBuilders
+
+/client/Library
