@@ -1,4 +1,4 @@
-This is Tic Tac Toe game created on Unity and colyseus .
+This is Tic Tac Toe game created on **Unity and colyseus** .
 If you want to try it , just fork it or download and try building it :), 
 the server side is already hosted on heroku.
 It only has simple join functionality, nothing complex.
